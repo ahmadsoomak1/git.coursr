@@ -1,0 +1,2 @@
+# git.coursr
+for course
